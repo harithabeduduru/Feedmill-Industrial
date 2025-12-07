@@ -1,0 +1,5 @@
+material_code,material_name,category,uom
+RM-CORN,Corn,grain,t
+RM-SOY,Soybean Meal,protein,t
+RM-WHT,Wheat,grain,t
+RM-PREM,Premix,micro,t

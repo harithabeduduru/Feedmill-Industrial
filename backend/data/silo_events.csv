@@ -1,0 +1,3 @@
+timestamp,material_code,event_type,note
+2025-10-02 15:30:00,RM-SOY,CHANGEOVER,Change feeder for RM-SOY
+2025-10-03 16:15:00,RM-PREM,LOW_LEVEL,RM-PREM below threshold
